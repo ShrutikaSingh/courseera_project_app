@@ -1,0 +1,42 @@
+popmotion
+
+
+//it has very good library of javascipt for dynamic things
+
+unpkg.com is the where we can download all the js libraries from
+
+learn parcel in nodejs  
+for nodejs and npm
+check      parcel.org   for documentatoion
+for bundeling all the js stuff together
+for installing parcel 
+npm install --global parcel-bundler 
+
+
+check out npmjs.com
+here is all the npm packages/libraries
+u can find popmotion there too
+
+
+
+es6 modules in nodejs
+
+
+if you want the node server to refresh automaticaly when you made changes to js file install nodemon
+
+
+sudo npm install -g nodemon
+ask niraj about warnings
+
+
+like jquery for js ,express is a library for node
+npm install express  (if u get permission error then sudo npm install express)
+ 
+
+
+
+
+
+
+
+
